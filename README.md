@@ -325,5 +325,5 @@ Inspired by modern AI voice learning and accessibility platforms designed to imp
 # 🚀 Live Demo
 
 ```bash
-https://yourusername.github.io/VocaFlow-AI
+https://kapilvarunbabu-g.github.io/VocaFlow-AI/
 ```
